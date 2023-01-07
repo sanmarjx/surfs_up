@@ -1,6 +1,6 @@
 # surfs_up
 ## Overview
-The purpose of this analysis is to compare the temperatures of June and December in Hawaii to determine weather opening a surf and ice cream shop is a good idea. By looking at the temperature statistics we will be able to determine weather the shop would be sustainable year round. 
+The purpose of this analysis is to compare the temperatures of June and December in Hawaii to determine whether opening a surf and ice cream shop is a good idea. By looking at the temperature statistics we will be able to determine weather the shop would be sustainable year round. 
 
 ## Results
 June temperature statistics.
