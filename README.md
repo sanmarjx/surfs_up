@@ -16,4 +16,4 @@ December temperature statistics.
 - There is a bigger difference in the minumun temperature. 64 in December and 56 in June.
 
 ## Summary
-Comparing the statistics we can observe that the temperature in June and December is very similar. This might make us think that it is a good idea to open the surf and ice cream shop. While that might be the case, temperature is only one aspect of the weather so we also need to look at other weather patterns. Looking at other statistics like precipitation will help us determine if opening the shop is a good idea.
+Comparing the statistics we can observe that the temperature in June and December is very similar. This might make us think that it is a good idea to open the surf and ice cream shop. While that might be the case, temperature is only one aspect of the weather so we also need to look at other weather patterns. Looking at other statistics like precipitation or average wind speed will help us determine if opening the shop is a good idea.
